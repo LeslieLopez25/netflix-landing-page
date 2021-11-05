@@ -10,5 +10,4 @@
 
 ### Screenshots
 
-<img src="/screenshots/desktop.png" width="400">
-<img src="/screenshots/tablet.png" width="400">
+<img src="/screenshots/desktop.png" width="400"><img src="/screenshots/tablet.png" width="400">
