@@ -2,12 +2,13 @@
 
 <h2>A Netflix landing page clone created using HTML, CSS, and JavaScript.</h2>
 
-<!-- <p>This website is responsive responsive using React. I created this following the tutorial of Brian Design. I updated the images, text, changed the icons, site name, and changed the color scheme of the website. Screenshots of what the website looks like desktop and mobile along with the sidebar in mobile.</p> -->
+<p>This website is responsive using HTML, CSS, and JavaScript. I created this following the tutorial of Traversy Media.  Screenshots of what the website looks like desktop and tablet. This a beginner friendly project and I got a better understanding of JavaScript to be able to change the tabs and different ways to use CSS.</p>
 
 ### Link
 
-- Live Site: [Netflix]()
+- Live Site: [Netflix](https://leslielopez25.github.io/netflix-landing-page/)
 
 ### Screenshots
 
-<img src="/screenshots/.png" width="400">
+<img src="/screenshots/desktop.png" width="400">
+<img src="/screenshots/tablet.png" width="400">
